@@ -14,7 +14,6 @@
 		3FE0862D1EBC1EBE00D70288 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FE0862C1EBC1EBE00D70288 /* Images.xcassets */; };
 		3FE086301EBC1EBE00D70288 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3FE0862E1EBC1EBE00D70288 /* LaunchScreen.xib */; };
 		3FE0863C1EBC1EBE00D70288 /* TableviewiOSAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE0863B1EBC1EBE00D70288 /* TableviewiOSAppTests.swift */; };
-		3FE086461EBC223500D70288 /* monthsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE086451EBC223500D70288 /* monthsTableViewController.swift */; };
 		3FE086481EBC224C00D70288 /* DaysViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE086471EBC224C00D70288 /* DaysViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -40,7 +39,6 @@
 		3FE086351EBC1EBE00D70288 /* TableviewiOSAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableviewiOSAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FE0863A1EBC1EBE00D70288 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3FE0863B1EBC1EBE00D70288 /* TableviewiOSAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableviewiOSAppTests.swift; sourceTree = "<group>"; };
-		3FE086451EBC223500D70288 /* monthsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = monthsTableViewController.swift; sourceTree = "<group>"; };
 		3FE086471EBC224C00D70288 /* DaysViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DaysViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -85,7 +83,6 @@
 			children = (
 				3FE086221EBC1EBE00D70288 /* AppDelegate.swift */,
 				3FE086271EBC1EBE00D70288 /* ViewController.swift */,
-				3FE086451EBC223500D70288 /* monthsTableViewController.swift */,
 				3FE086471EBC224C00D70288 /* DaysViewController.swift */,
 				3FE086291EBC1EBE00D70288 /* Main.storyboard */,
 				3FE0862C1EBC1EBE00D70288 /* Images.xcassets */,
@@ -223,7 +220,6 @@
 			files = (
 				3FE086281EBC1EBE00D70288 /* ViewController.swift in Sources */,
 				3FE086231EBC1EBE00D70288 /* AppDelegate.swift in Sources */,
-				3FE086461EBC223500D70288 /* monthsTableViewController.swift in Sources */,
 				3FE086261EBC1EBE00D70288 /* TableviewiOSApp.xcdatamodeld in Sources */,
 				3FE086481EBC224C00D70288 /* DaysViewController.swift in Sources */,
 			);

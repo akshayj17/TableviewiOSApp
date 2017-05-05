@@ -8,13 +8,13 @@
         <!--Months-->
         <scene sceneID="ho3-3V-0dr">
             <objects>
-                <tableViewController id="Ae5-Ke-jcz" userLabel="Months" customClass="monthsTableViewController" customModule="TableviewiOSApp" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController id="Ae5-Ke-jcz" userLabel="Months" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="7ro-m0-m14">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <prototypes>
-                            <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Basic" id="au8-jb-yar">
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="au8-jb-yar">
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="au8-jb-yar" id="s6j-Vw-HcV">
                                     <autoresizingMask key="autoresizingMask"/>
@@ -38,13 +38,13 @@
         <!--Days-->
         <scene sceneID="HZP-jF-JNr">
             <objects>
-                <tableViewController id="MgD-UN-nVv" userLabel="Days" customClass="DaysTableViewController" customModule="TableviewiOSApp" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController id="MgD-UN-nVv" userLabel="Days" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="yqS-or-RDx">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <prototypes>
-                            <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Basic" id="A0s-ih-TdW">
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="A0s-ih-TdW">
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="A0s-ih-TdW" id="CoV-hv-O7m">
                                     <autoresizingMask key="autoresizingMask"/>
@@ -59,7 +59,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="czh-XB-kcm" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="281" y="-489"/>
+            <point key="canvasLocation" x="285" y="-493"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="wjX-Yo-0hx">

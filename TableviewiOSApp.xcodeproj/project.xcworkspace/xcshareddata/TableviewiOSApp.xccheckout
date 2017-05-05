@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>BF6965C8-ECFE-457F-B395-CE96EA54CD56</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>TableviewiOSApp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>0D711EB22A0FCC608FDEB7D9FEA4A754B3F51097</key>
 		<string>https://github.com/akshayj17/TableviewiOSApp.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>TableviewiOSApp.xcodeproj/project.xcworkspace</string>
+	<string>TableviewiOSApp.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>0D711EB22A0FCC608FDEB7D9FEA4A754B3F51097</key>
